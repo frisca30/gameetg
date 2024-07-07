@@ -25,7 +25,7 @@ class Gamee:
     def __init__(self):
         self.peer = "gamee"
         self.url_api_gamee = "https://api.gamee.com/"
-        self.ref = "ref_629438076"
+        self.ref = "ref_860891064"
         self.DEFAULT_COUNTDOWN = 2 * (60 * 60)
         self.DEFAULT_INTERVAL = 10
         self.line = putih + "~" * 50
