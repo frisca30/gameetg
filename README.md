@@ -200,11 +200,10 @@ If you have an question or something you can ask in here : [@sdsproject_chat](ht
 
 To support me you can buy me a coffee via website in below
 
-- Send IDR directly via QRIS : [https://s.id/nusanqr](https://s.id/nusanqr)
-- https://sociabuzz.com/fawwazthoerif/tribe
+- https://sociabuzz.com/bangcups
 - USDT (TRC20)
   ```
-  TZANkbi8z22cEpkpWfJ1F6H84r9DA19Es1
+  TUNumTD8K4cAE5ytoMaSU98Lj1xNPEJG2x
   ```
 
 # Thank you < 3
