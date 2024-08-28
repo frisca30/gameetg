@@ -1,7 +1,43 @@
-# Gameetg
+# GameeTod
 
 Auto Claim Wat Point from gamee
 
+
+# Table of Contents
+
+- [GameeTod](#gameetod)
+- [Table of Contents](#table-of-contents)
+- [Feature](#feature)
+- [Register ?](#register-)
+- [How to Use](#how-to-use)
+  - [Bot.py Parameter](#botpy-parameter)
+  - [Windows](#windows)
+  - [Linux](#linux)
+  - [Termux](#termux)
+- [How to Get Data](#how-to-get-data)
+- [Video Guide to Get Data](#video-guide-to-get-data)
+- [Javascript Command to Get Telegram Data for Desktop](#javascript-command-to-get-telegram-data-for-desktop)
+- [Run for 24/7](#run-for-247)
+- [Discussion](#discussion)
+- [Support My Work](#support-my-work)
+- [Thank you \< 3](#thank-you--3)
+
+<!-- # My Note
+
+```text
+Sorry, I can't add the feature to complete the 'race' because my device doesn't support it. 
+When I press the play button, it only shows a black blank (like picture number 1), then I asked someone and he replied “maybe your internet is problematic”. Then I waited until this morning and I tried again but still couldn't.
+Then I tried to see the console menu and it turned out that there was an error (as shown in picture number 2) that my device did not support playing the game.
+So I only updated for mining action, maybe I will update for “racing” action later when I buy rdp (Remote Desktop Protocol / Windows Server) or buy a new device.
+That's all, thank you.
+```
+## Image 1
+
+<img src="./images/black_blank_image.png" width="300" height="500">
+
+## Image 2
+
+<img src="./images/console_error_image.png" width="500" height="300"> -->
 
 # Feature
 
@@ -9,6 +45,7 @@ Auto Claim Wat Point from gamee
 - [x] Auto Daily Spin
 - [x] Spin Using Ticket
 - [x] Support Multi Account
+- [x] Claim Previous Session Mining Rewards
 
 # Register ?
 
@@ -39,9 +76,9 @@ Here are some parameters that can be used in bot.py or the bot's main script
    git clone https://github.com/frisca30/gameetg.git
    ```
 
-3. goto gameetg directory
+3. goto gameetod directory
    ```
-   cd gameetg
+   cd gameetod
    ```
 
 4. install the require library
@@ -49,7 +86,7 @@ Here are some parameters that can be used in bot.py or the bot's main script
    python -m pip install -r requirements.txt
    ```
 
-5. fill the `data.txt` file with your data.
+5. fill the `data.txt` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)
 6. execute the main program 
    ```
    python bot.py
@@ -74,10 +111,10 @@ Here are some parameters that can be used in bot.py or the bot's main script
    git clone https://github.com/frisca30/gameetg.git
    ```
 
-3. goto gameetg directory
+3. goto gameetod directory
 
    ```shell
-   cd gameetg
+   cd gameetod
    ```
 
 4. Install the require library
@@ -86,7 +123,7 @@ Here are some parameters that can be used in bot.py or the bot's main script
    python3 -m pip install -r requirements.txt
    ```
 
-5. fill the `data.txt` file with your data.
+5. fill the `data.txt` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)
 6. execute the main program 
    ```
    python bot.py
@@ -111,9 +148,9 @@ Here are some parameters that can be used in bot.py or the bot's main script
    git clone https://github.com/frisca30/gameetg.git
    ```
 
-3. goto gameetg directory
+3. goto gameetod directory
    ```
-   cd gameetg
+   cd gameetod
    ```
 
 4. install the require library
@@ -121,7 +158,7 @@ Here are some parameters that can be used in bot.py or the bot's main script
    python -m pip install -r requirements.txt
    ```
 
-5. fill the `data.txt` file with your data.
+5. fill the `data.txt` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)
 6. execute the main program 
    ```
    python bot.py
@@ -129,7 +166,7 @@ Here are some parameters that can be used in bot.py or the bot's main script
 
 # How to Get Data
    
-   1. Active web inspecting in telegram app
+   1. Active web inspecting in telegram app, How to activate follow the video [https://youtu.be/NYxHmck_GjE](https://youtu.be/NYxHmck_GjE)
    2. Goto gamee bot and open the apps
    3. Press `F12` on your keyboard to open devtool or right click on app and select `Inspect`
    4. Goto `console` menu and copy [javascript code](#javascript-command-to-get-telegram-data-for-desktop) then paste on `console` menu
@@ -155,6 +192,19 @@ Here are some parameters that can be used in bot.py or the bot's main script
 
 You can run the script bot for 24/7 using vps / rdp. You can use `screen` application in vps linux to running the script bot in background process
 
+# Discussion
 
+If you have an question or something you can ask in here : [@sdsproject_chat](https://t.me/sdsproject_chat)
+
+# Support My Work
+
+To support me you can buy me a coffee via website in below
+
+- Send IDR directly via QRIS : [https://s.id/nusanqr](https://s.id/nusanqr)
+- https://sociabuzz.com/fawwazthoerif/tribe
+- USDT (TRC20)
+  ```
+  TZANkbi8z22cEpkpWfJ1F6H84r9DA19Es1
+  ```
 
 # Thank you < 3
